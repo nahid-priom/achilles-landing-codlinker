@@ -41,15 +41,15 @@ function BookACallContent() {
               What to Expect
             </h2>
             <p className="text-lg text-gray-700 mb-8">
-              During your free discovery call, we'll take the time to
+              During your free discovery call, we&apos;ll take the time to
               understand your business, discuss your goals, and explore how
               our virtual assistant services can help you achieve them. This
-              is a no-pressure conversation designed to see if we're a good
+              is a no-pressure conversation designed to see if we&apos;re a good
               fit for each other.
             </p>
 
             <h3 className="text-xl font-semibold text-gray-900 mb-4">
-              What You'll Get:
+              What You&apos;ll Get:
             </h3>
             <ul className="space-y-3 mb-8">
               {benefits.map((benefit) => (
@@ -68,7 +68,7 @@ function BookACallContent() {
                     Call Duration
                   </h3>
                   <p className="text-gray-700">
-                    Most discovery calls last 30-45 minutes. We'll make sure to
+                    Most discovery calls last 30-45 minutes. We&apos;ll make sure to
                     cover everything you need to know and answer all your
                     questions.
                   </p>
@@ -88,7 +88,7 @@ function BookACallContent() {
               <CardHeader>
                 <CardTitle>Schedule Your Call</CardTitle>
                 <p className="text-sm text-gray-600 mt-2">
-                  Fill out the form below and we'll get back to you within 24
+                  Fill out the form below and we&apos;ll get back to you within 24
                   hours to schedule your discovery call.
                 </p>
               </CardHeader>

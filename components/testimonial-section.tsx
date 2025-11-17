@@ -53,7 +53,7 @@ export function TestimonialSection() {
             What Our Clients Say
           </h2>
           <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
-            Real feedback from businesses we've helped grow
+            Real feedback from businesses we&apos;ve helped grow
           </p>
         </motion.div>
 

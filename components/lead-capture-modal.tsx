@@ -171,7 +171,7 @@ export function LeadCaptureModal() {
                       Book a Free Discovery Call
                     </DialogTitle>
                     <DialogDescription className="text-base text-gray-600 text-left mt-2">
-                      Share a few details and we'll get back to you within 24 hours
+                      Share a few details and we&apos;ll get back to you within 24 hours
                       with a tailored VA plan.
                     </DialogDescription>
                   </DialogHeader>
@@ -445,7 +445,7 @@ export function LeadCaptureModal() {
                 Thanks, your discovery call request is in!
               </DialogTitle>
               <DialogDescription className="text-base text-gray-600 mb-8">
-                We'll contact you within 24 hours at{" "}
+                We&apos;ll contact you within 24 hours at{" "}
                 <span className="font-semibold text-achilles-blue">
                   {submittedEmail}
                 </span>

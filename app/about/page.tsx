@@ -88,13 +88,13 @@ export default function AboutPage() {
             <p>
               Our team has carefully curated a network of pre-vetted virtual
               assistants from around the globe, each with specialized skills
-              and proven track records. We don't just match you with a VA—we
+              and proven track records. We don&apos;t just match you with a VA—we
               ensure they understand your business, align with your culture,
               and are equipped with the tools and knowledge to make an
               immediate impact.
             </p>
             <p>
-              Today, we've helped over 50 businesses streamline their
+              Today, we&apos;ve helped over 50 businesses streamline their
               operations, reduce costs, and scale more efficiently. Our
               commitment to excellence and personalized service has made us a
               trusted partner for businesses looking to leverage the power of

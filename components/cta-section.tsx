@@ -27,7 +27,7 @@ export function CTASection() {
             Ready to Scale with a Dedicated Virtual Assistant Team?
           </h2>
           <p className="text-base sm:text-lg text-white/90 mb-6 sm:mb-8">
-            Book a free discovery call and let's discuss how we can help your
+            Book a free discovery call and let&apos;s discuss how we can help your
             business grow efficiently and focus on what matters most.
           </p>
           <motion.div

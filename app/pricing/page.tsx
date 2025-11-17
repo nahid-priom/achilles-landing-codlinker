@@ -129,7 +129,7 @@ export default function PricingPage() {
           className="mt-12 text-center"
         >
           <p className="text-gray-600 mb-4">
-            Need a custom solution? We're happy to create a tailored plan for
+            Need a custom solution? We&apos;re happy to create a tailored plan for
             your business.
           </p>
           <Button asChild variant="achillesSecondary">
